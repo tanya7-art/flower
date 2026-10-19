@@ -1,0 +1,6 @@
+{
+  "name": "플라워 보카 - 꽃이름 영어단어 퀴즈",
+  "description": "초급·중급·고급 난이도별 꽃이름 영어단어 맞추기 게임 및 점수 기록/오답노트 학습 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
